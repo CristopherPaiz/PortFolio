@@ -15,14 +15,28 @@ const Skills = () => {
     },
     {
       nombre: "JavaScript",
-      imgurl:
-        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg",
-      stars: "★★★★☆",
+      imgurl: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg",
+      stars: "★★★★★",
     },
     {
       nombre: "React JS",
       imgurl: "https://cdn.svgporn.com/logos/react.svg",
-      stars: "★★★☆☆",
+      stars: "★★★★★",
+    },
+    {
+      nombre: "Vue JS",
+      imgurl: "https://cdn.svgporn.com/logos/vue.svg",
+      stars: "★★★★★",
+    },
+    {
+      nombre: "Tailwind CSS",
+      imgurl: "https://cdn.svgporn.com/logos/tailwindcss-icon.svg",
+      stars: "★★★★★",
+    },
+    {
+      nombre: "Bootstrap",
+      imgurl: "https://cdn.svgporn.com/logos/bootstrap.svg",
+      stars: "★★★★★",
     },
     {
       nombre: "Python",
@@ -32,6 +46,16 @@ const Skills = () => {
     {
       nombre: "MySQL",
       imgurl: "https://cdn.svgporn.com/logos/mysql.svg",
+      stars: "★★★★☆",
+    },
+    {
+      nombre: "MongoDB",
+      imgurl: "https://cdn.svgporn.com/logos/mongodb-icon.svg",
+      stars: "★★★★★",
+    },
+    {
+      nombre: "Redux",
+      imgurl: "https://cdn.svgporn.com/logos/redux.svg",
       stars: "★★★★☆",
     },
     {
@@ -62,7 +86,7 @@ const Skills = () => {
     {
       nombre: "Office",
       imgurl:
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg",
       stars: "★★★★★",
     },
   ];

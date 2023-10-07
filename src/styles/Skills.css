@@ -8,11 +8,7 @@
 }
 
 .cuadroHijo {
-  background: linear-gradient(
-    0deg,
-    rgba(90, 247, 215, 0.1) 20%,
-    rgba(244, 208, 63, 0.1) 80%
-  );
+  background: linear-gradient(0deg, rgba(90, 247, 215, 0.1) 20%, rgba(244, 208, 63, 0.1) 80%);
   background-size: cover;
   box-decoration-break: slice;
   background-attachment: fixed;
